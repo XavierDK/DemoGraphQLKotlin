@@ -1,0 +1,7 @@
+graphql:
+  federation:
+    enabled: true
+  packages: "com.traveldoo.expensegql"
+
+server:
+  port: 8081

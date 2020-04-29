@@ -1,0 +1,4 @@
+graphql:
+  federation:
+    enabled: true
+  packages: "com.traveldoo.claimgql"
